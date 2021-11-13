@@ -1,7 +1,7 @@
 // Compile with full optimization and compare the assembly code to see the
 // difference
 
-import <string>
+import <string>;
 
 int main()
 {
